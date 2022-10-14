@@ -1,0 +1,19 @@
+body{
+  /* background-color: gray; */
+  background: url(https://img.freepik.com/premium-photo/beautiful-tropical-beaches-sea-with-blue-background-beach-bright-blue-sky-background-copying-space-panorama_524876-608.jpg?w=2000)
+}
+div{
+  background: blue;
+  border-color: yellow;
+  border-width: 5px;
+  border-style: double;
+}
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+  border-width: 2px;
+}
